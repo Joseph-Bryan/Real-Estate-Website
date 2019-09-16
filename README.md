@@ -1,2 +1,5 @@
-# Real-Estate-Website
-This is a Real Estate Website I build for myself. where the admin can login to his Admin section to create new listings and update or delete which can be viewed by the Public who visits the site.
+To start the server, run `nodemon server.js`
+
+Modify the `server.js` file to add endpoints
+
+The frontend code goes in the `/src` directory
